@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @L00188497
+- 👋 Hi, I’m Francis im studing for PGDip Clodu Computing in ATU
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Virtual Servers Admionistration & Infrastructure as Code on Semester One
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me 
+
 
 <!---
 L00188497/L00188497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

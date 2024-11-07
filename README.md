@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francis im studing for PGDip Clodu Computing in ATU
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Virtual Servers Admionistration & Infrastructure as Code on Semester One
+- 🌱 I’m currently learning Virtual Servers Administration & Infrastructure as Code on Semester One
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 

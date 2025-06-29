@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Francis im studing for PGDip Clodu Computing in ATU
+- 👋 Hi, I’m Francis im studing for PGDip Cloud Computing in ATU
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Virtual Servers Administration & Infrastructure as Code on Semester One
+- 🌱 I’m currently learning Data Centre Operations & Networks on Semester Two
+- 🌱 I’m currently learning Hybrid Cloud Technologies on Semester Three
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
